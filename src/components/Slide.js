@@ -15,7 +15,8 @@ const styles = theme => ({
         color: '#333348'
     },
     content: {
-        //backgroundColor: '#550099'
+        fontFamily: 'Open Sans',
+        fontSize: '24px'
     }
 });
 
