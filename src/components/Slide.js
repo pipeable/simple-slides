@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import axios from 'axios';
 import { withStyles } from '@material-ui/core/styles';
-import { Paper, Typography, List, ListItem, ListItemIcon, ListItemText, Grid } from '@material-ui/core';
+import { Paper, Grid } from '@material-ui/core';
 
 const styles = theme => ({
     grid: {

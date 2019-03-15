@@ -1,0 +1,7 @@
+{
+    "name": "How to create a mouse game",
+    "description": "We are going to create a simple game using the mouse interactions provided by native Javascript.",
+    "image": "cover-1.png",
+    "difficulty": 1,
+    "slides": 6
+}

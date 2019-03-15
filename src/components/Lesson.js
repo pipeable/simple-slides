@@ -12,7 +12,7 @@ const styles = theme => ({
         flexGrow: 1
     },
     media: {
-        height: '160px'
+        height: '256px'
     },
     description: {
         fontFamily: 'Open Sans'

@@ -44,7 +44,7 @@ class Home extends Component {
 
         if (this.state.lessons) {
             lessons = this.state.lessons.map((lesson) => 
-                <Grid item xm={12} sm={6} md={6} key={lesson}>
+                <Grid item xs={12} sm={6} md={4} key={lesson}>
                     <Lesson id={lesson}></Lesson>
                 </Grid>
             );
